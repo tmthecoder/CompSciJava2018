@@ -1,0 +1,4 @@
+Name: Tejas
+Wage: 10
+Hours Worked: 100
+Additional Info: Awesome

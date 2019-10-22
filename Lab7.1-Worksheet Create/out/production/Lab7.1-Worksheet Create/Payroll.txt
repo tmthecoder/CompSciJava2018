@@ -1,0 +1,12 @@
+Name: Nameey
+Wage: $1
+Hours Worked: 2
+Additional Info: alal
+Name: Tejas
+Wage: 1000
+Hours Worked: 200
+Additional Info: great
+Name: La
+Wage: 20
+Hours Worked: 200
+Additional Info: lal
