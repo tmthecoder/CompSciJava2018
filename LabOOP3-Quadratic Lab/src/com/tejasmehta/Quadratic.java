@@ -36,9 +36,9 @@ public class Quadratic
 
     //get the roots using the quadratic formula
     void calcRoots() {
-        double sqrt = Math.round(Math.sqrt((b * b) - (4 * a * c))*100)/100;
-        double rootOne = Math.round(((-1 * b) + sqrt) / (2 * a) * 100) / 100;
-        double rootTwo = Math.round(((-1 * b) - sqrt) / (2 * a) * 100) / 100;
+        double sqrt = Math.round(Math.sqrt((b * b) - (4 * a * c))*100)/100.0;
+        double rootOne = Math.round(((-1 * b) + sqrt) / (2 * a) * 100) / 100.0;
+        double rootTwo = Math.round(((-1 * b) - sqrt) / (2 * a) * 100) / 100.0;
         message = "Root One: " + rootOne + "\nRoot Two: " + rootTwo;
     }
 
